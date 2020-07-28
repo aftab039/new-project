@@ -1,0 +1,59 @@
+div.first{
+    position:relative;
+height: 40px;
+    width: 100%;
+}
+
+
+.agency{
+     font-size: 40px;
+    font-family: fontawesome;
+    letter-spacing: 2px;
+    display: block;
+   color: #c0c265;
+   text-decoration: none;
+    
+}
+.tagline{
+    float:right;
+    font-size: medium;
+    font-family: fontawesome;
+    letter-spacing: 2px;
+
+}
+
+ div ul{
+   
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0;
+    background-color: red;
+    position: fixed;
+    width: 96%;
+    height: 55px;
+
+
+   
+   
+
+}
+ div li{
+    float: left;
+    padding:15px 18px  ;
+    font-size: 17px;
+    display: block;
+   
+}li:hover{
+    background-color: maroon;
+    color: mintcream;
+}
+.right{
+    float: right;
+}
+input[type=text]{
+	width:320px;
+	box-sizing:border-box;
+	font-size:15px;
+	padding:10px 10px 5px 10px;
+	border:2px solid #ccc;
+	border-radius:4px;
